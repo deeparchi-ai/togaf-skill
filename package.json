@@ -1,0 +1,33 @@
+{
+  "name": "togaf",
+  "version": "1.0.0",
+  "description": "TOGAF (The Open Group Architecture Framework) enterprise architecture methodology and best practices",
+  "main": "README.md",
+  "keywords": [
+    "togaf",
+    "enterprise-architecture",
+    "adm",
+    "architecture-development-method",
+    "building-blocks",
+    "architecture-governance",
+    "deeparchi"
+  ],
+  "author": "DeepArchi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deeparchi/togaf-skill.git"
+  },
+  "files": [
+    "README.md",
+    "EXAMPLES.md",
+    "references/**/*",
+    "scripts/**/*",
+    "assets/**/*"
+  ],
+  "skill": {
+    "name": "togaf",
+    "description": "TOGAF (The Open Group Architecture Framework) enterprise architecture methodology and best practices. Provides ADM (Architecture Development Method) guidance, architecture content framework, building blocks, viewpoints, and governance. Use this skill for enterprise architecture planning, architecture development, transition planning, or any TOGAF-based architecture work.",
+    "version": "1.0.0"
+  }
+}
