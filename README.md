@@ -642,4 +642,4 @@ A:
 - [The Open Group](https://www.opengroup.org/)
 - [ArchiMate Standard](https://www.opengroup.org/archimate)
 - [BIAN Framework](https://bian.org/)
-- [DeepArchi 架构管理平台](https://deeparchi.com)
+- [DeepArchi 架构管理平台](https://www.deeparchi.com.cn)

@@ -93,4 +93,4 @@ Requirements  → 贯穿全程的需求管理
 
 - [TOGAF Official Website](https://www.opengroup.org/togaf)
 - [ArchiMate Standard](https://www.opengroup.org/archimate)
-- [DeepArchi 架构管理平台](https://deeparchi.com)
+- [DeepArchi 架构管理平台](https://www.deeparchi.com.cn)
